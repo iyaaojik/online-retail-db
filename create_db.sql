@@ -1,0 +1,1 @@
+CREATE DATABASE jikk_store;

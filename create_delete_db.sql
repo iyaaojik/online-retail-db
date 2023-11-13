@@ -1,0 +1,1 @@
+DROP DATABASE jikk_store;
